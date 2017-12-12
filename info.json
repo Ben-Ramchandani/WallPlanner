@@ -1,0 +1,9 @@
+{
+  "name": "WallPlanner",
+  "version": "0.0.1",
+  "title": "WallPlanner",
+  "author": "bob809",
+  "description": "",
+  "factorio_version": "0.15.0",
+  "dependencies": ["base >= 0.15.00", "PlannerCore >= 0.0.1"]
+}
